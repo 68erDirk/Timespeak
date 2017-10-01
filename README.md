@@ -33,13 +33,13 @@ MP3 Voice output via DFPlayer module
 Attention: On microSD card, all sound files have to be put in a folder called "mp3"
 
 The following files are expected:
-1.mp3 - 24-mp3  : "zero hours", "one hours", "two hours" to "23 hours"; In German it is required to say "Uhr" meaning "hours" between hours and minutes of a timestamp!
-25.mp3 - 84.mp3 : "zero" to "fifty-nine" for the minutes
-85.mp3          : "to"
-86.mp3          : "past"
-87.mp3          : "quarter"
-88.mp3          : "half"
-85.mp3 - 88.mp3 are meant for colloquial time telling (future expansion, not yet implemented!)
+* 1.mp3 - 24-mp3  : "zero hours", "one hours", "two hours" to "23 hours"; In German it is required to say "Uhr" meaning "hours" between hours and minutes of a timestamp!
+* 25.mp3 - 84.mp3 : "zero" to "fifty-nine" for the minutes
+* 85.mp3          : "to"
+* 86.mp3          : "past"
+* 87.mp3          : "quarter"
+* 88.mp3          : "half"
+* 85.mp3 - 88.mp3 are meant for colloquial time telling (future expansion, not yet implemented!)
 
 Decent mp3 files can easily be created online using the following strategy:
 
