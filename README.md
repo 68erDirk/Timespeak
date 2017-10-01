@@ -1,4 +1,4 @@
-Timespeak
+﻿Timespeak
 =========
 ESP 8266-based talking clock
 created 06 Sep 2017
