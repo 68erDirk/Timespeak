@@ -50,14 +50,14 @@ Decent mp3 files can easily be created online using the following strategy:
     0 Uhr, 1 Uhr, 2 Uhr, 3 Uhr, 4 Uhr, 5 Uhr, 6 Uhr, 7 Uhr, 8 Uhr, 9 Uhr, 10 Uhr, 11 Uhr, 12 Uhr, 13 Uhr, 14 Uhr,
 	15 Uhr, 16 Uhr,	17 Uhr, 18 Uhr, 19 Uhr, 20 Uhr, 21 Uhr, 22 Uhr, 23 Uhr, 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11,
 	12, 13, 14, 15, 16, 17, 18, 19,	20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38,
-	39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51,	52, 53, 54, 55, 56, 57, 58, 59, Nach, Vor, Viertel, Halb
+	39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51,	52, 53, 54, 55, 56, 57, 58, 59, Vor, Nach, Viertel, Halb
   
 2. Choose an online Text-To-Speech Service like [Naturalreaders](https://www.naturalreaders.com/online/)
 3. Paste the text file contents to the input box
 4. Choose language and voice
 5. Use Audacity for recording the output directly as explained in the [Audacity manual](http://manual.audacityteam.org/man/tutorial_recording_computer_playback_on_windows.html)
 6. Label recording into separate tracks as described in the [Audacity manual](http://manual.audacityteam.org/man/silence_finder_and_sound_finder.html)
-7. Export separate sound files from labels as described in the [Audacity manual](http://manual.audacityteam.org/man/splitting_a_recording_into_separate_tracks.html)
+7. Export separate sound files from labels as described in the [Audacity manual](https://support.audacityteam.org/audio-editing/splitting-a-recording-into-separate-tracks)
 8. Now click "ok" 88 times ;-) -> the resulting files are cut and named correctly by default.
 
 Possible changes and additions or future ideas:
